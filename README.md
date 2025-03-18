@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍🔬 Licenciada en Ing. en Biotecnología Molecular convertida en 🧑‍💻 desarrolladora Front-End.<br><br>💡 Descubrí la programación durante mi tesis y aprendí a manipular y analizar datos transcriptómicos con R, el uso de Bash y algo de Python.<br><br>🚀 Luego, di un gran salto aprendiendo sobre desarrollo web Front-End. Ahora, manejo JavaScript, HTML, CSS y me mantengo actualizada en las tendencias en UX/UI.<br><br>🌱 Amante de aprender cosas nuevas, y no es solo una frase cliché. Planeo utilizar toda mi creatividad e integrar mis conocimientos previos en este nuevo camino profesional.<br><br>¡Espero que esto te sirva para tu perfil de GitHub.
+👩‍🔬 Licenciada en Ing. en Biotecnología Molecular convertida en 🧑‍💻 desarrolladora Front-End.<br><br>💡 Descubrí la programación durante mi tesis y aprendí a manipular y analizar datos transcriptómicos con R, el uso de Bash y algo de Python.<br><br>🚀 Luego, di un gran salto aprendiendo sobre desarrollo web Front-End. Ahora, manejo JavaScript, HTML, CSS y me mantengo actualizada en las tendencias en UX/UI.<br><br>🌱 Amante de aprender cosas nuevas, y no es solo una frase cliché. Planeo utilizar toda mi creatividad e integrar mis conocimientos previos en este nuevo camino profesional.<br><br>
 
 
 ## 🌐 Socials:
